@@ -4,7 +4,7 @@ on:
   pull_request:
     paths:
       - "**.ts"
-      - ".eslintrc.json"
+      - "eslint.config.cjs"
       - "package.json"
 
 jobs:
